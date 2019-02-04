@@ -1,0 +1,11 @@
+packages
+*.dgml
+err.html
+*.xps
+TheDatabaseOfSemantics.db
+/Theictionaryroj2013/bin/Debug/ConceptNet
+/Theictionaryroj2013/bin/Debug/wordnet
+*.txt
+Abodit.*
+Abodit*
+/packages
