@@ -1,5 +1,5 @@
 # SpatialNet-v0.0
-###The knowledge graph (KG) that conceptualizes spatial qualities and maps the spatial signs to these concepts. 
+### The knowledge graph (KG) that conceptualizes spatial qualities and maps the spatial signs to these concepts. 
 
 
 ![a conceptual represntation of SpatialNet](https://user-images.githubusercontent.com/47088273/58963174-fe2d0a00-87ac-11e9-8b7e-f677bca329a6.jpg)
