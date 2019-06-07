@@ -12,7 +12,10 @@
 - you need to upload  seven specially formatted DHF5 file of seven corpora to  (_.\Theictionaryroj2013\Theictionaryroj2013\bin\Debug\ConceptNet_)
 - The seven corpora are downloadable from (https://www.dropbox.com/sh/t9rjmejcmminwwj/AAB5TT3fLklKkbU3D5rJajgSa?dl=0)
 - You need to be connected online to use the ConceptNet tab.
-- to use the WordNet tab you need to upload the wordnet files at (_.\Theictionaryroj2013\Theictionaryroj2013\bin\Debug\wordnet_). A compressed tar file of the WordNet 3.1 database files is downloadable from https://wordnet.princeton.edu/download/current-version. you need to uncompress the files into the aforementioned _\Debug\wordnet_ path.  
+- to use the WordNet tab you need to upload the wordnet files at (_.\Theictionaryroj2013\Theictionaryroj2013\bin\Debug\wordnet_). A compressed tar file of the WordNet 3.1 database files is downloadable from https://wordnet.princeton.edu/download/current-version. you need to uncompress the files into the aforementioned _\Debug\wordnet_ path. 
 
+the user interface of the computational tool that is prepared to be used for structuring the training dataset of the SpatialNet knowledge graph looks like the following:
+
+![___the application UI](https://user-images.githubusercontent.com/47088273/59104925-1af34a00-8933-11e9-9544-19352dd2de3b.png)
 
 ![spatial language presentation__](https://user-images.githubusercontent.com/47088273/53517776-1f100000-3ad8-11e9-86a5-d8c08fe48140.gif)
