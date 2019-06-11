@@ -2,7 +2,7 @@
 ### The knowledge graph (KG) that conceptualizes spatial qualities and maps the spatial signs to these concepts. 
 
 
-![a conceptual represntation of SpatialNet](https://user-images.githubusercontent.com/47088273/58963174-fe2d0a00-87ac-11e9-8b7e-f677bca329a6.jpg)
+![a conceptual represntation of SpatialNet](https://user-images.githubusercontent.com/47088273/58963174-fe2d0a00-87ac-11e9-8b7e-f677bca329a6.jpg "Sample concepts of SpatialNet")
 
 #### The features of any urban constructs will be extracted using a specially devised neural network (NN) named SpatialFeaturesNet that utilizes state-of-the-art computer 3d vision convolutional techniques. SpatialNet will conceptualize these extracted spatial features using text mining technique. meaning that the SpatialFeaturesNet NN is used for extracting the features of any urban constructs, which are represented by 3d digital models or by sketches and Euclidian images, and the SpatialNet KG will be used then for conceptualizing the extracted features. The two neural networks will collectively represent Version 0.00 of the proposed scheme for conceptualizing urban constructs.
 ![the simulation model](https://user-images.githubusercontent.com/47088273/59296408-38ebe200-8c86-11e9-8d25-a92a50291f23.png)
