@@ -17,6 +17,6 @@
 
 the user interface of the computational tool that is prepared to be used for structuring the training dataset of the SpatialNet knowledge graph looks like the following:
 
-![___the application UI](https://user-images.githubusercontent.com/47088273/59104925-1af34a00-8933-11e9-9544-19352dd2de3b.png)
+![___the application UI](https://user-images.githubusercontent.com/47088273/59104925-1af34a00-8933-11e9-9544-19352dd2de3b.png "a graphical interface of the computational tool that will generate the training dataset")
 
 ![spatial language presentation__](https://user-images.githubusercontent.com/47088273/53517776-1f100000-3ad8-11e9-86a5-d8c08fe48140.gif)
