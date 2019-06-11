@@ -7,6 +7,8 @@
 #### The features of any urban constructs will be extracted using a specially devised neural network (NN) named SpatialFeaturesNet that utilizes state-of-the-art computer 3d vision convolutional techniques. SpatialNet will conceptualize these extracted spatial features using text mining technique. meaning that the SpatialFeaturesNet NN is used for extracting the features of any urban constructs, which are represented by 3d digital models or by sketches and Euclidian images, and the SpatialNet KG will be used then for conceptualizing the extracted features. The two neural networks will collectively represent Version 0.00 of the proposed scheme for conceptualizing urban constructs.
 ![the simulation model](https://user-images.githubusercontent.com/47088273/59296408-38ebe200-8c86-11e9-8d25-a92a50291f23.png "The proposed procedure for conceptualizing urban constructs, (1) is SpatialFeaturesNet and (2) is SpatialNet")
 
+![___Web Features](https://user-images.githubusercontent.com/47088273/59297589-da743300-8c88-11e9-8b91-d6a958d5a3ae.png "exemplary features that will be extracted from any urban construct using SpatialFeaturesNet")
+
 #### The code includes the _Theictionaryroj2013.exe_ file for running a specially devised tool for structuring the database needed for training a Deep Artificial Network for structuring SpatialNet, which is a knowledge graph (KG). _Theictionaryroj2013.exe_ can be found at (.\Theictionaryroj2013\Theictionaryroj2013\bin\Debug, the online path is  https://github.com/SpatialNet-Final/SpatialNet-v0.0/tree/master/Theictionaryroj2013/bin/Debug)
 
 #### To use the .exe file and to structure  your own version of SpatialNet:
