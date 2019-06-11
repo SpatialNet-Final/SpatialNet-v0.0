@@ -25,4 +25,6 @@ the user interface of the computational tool that is prepared to be used for str
 
 ![__the Computational Model_00](https://user-images.githubusercontent.com/47088273/59298067-fcba8080-8c89-11e9-9393-d5fd8d436030.png "the deep NN that will predict the completion  of the SpatialNet's graph")
 
+![___Case Study 02](https://user-images.githubusercontent.com/47088273/59298218-5458ec00-8c8a-11e9-82f0-84e3dbb62f17.png "the deep NN for extracting the features of any urban construct")
+
 ![spatial language presentation__](https://user-images.githubusercontent.com/47088273/53517776-1f100000-3ad8-11e9-86a5-d8c08fe48140.gif)
