@@ -9,6 +9,8 @@
 
 ![___Web Features](https://user-images.githubusercontent.com/47088273/59297589-da743300-8c88-11e9-8b91-d6a958d5a3ae.png "exemplary features that will be extracted from any urban construct using SpatialFeaturesNet")
 
+![___Case Study 02](https://user-images.githubusercontent.com/47088273/59297821-6f772c00-8c89-11e9-8e85-d0c1008ff32a.png "exemplary extracted features of an urban construct, these features can be comprehensively conceptualized using the KG of SpatialNet")
+
 #### The code includes the _Theictionaryroj2013.exe_ file for running a specially devised tool for structuring the database needed for training a Deep Artificial Network for structuring SpatialNet, which is a knowledge graph (KG). _Theictionaryroj2013.exe_ can be found at (.\Theictionaryroj2013\Theictionaryroj2013\bin\Debug, the online path is  https://github.com/SpatialNet-Final/SpatialNet-v0.0/tree/master/Theictionaryroj2013/bin/Debug)
 
 #### To use the .exe file and to structure  your own version of SpatialNet:
